@@ -9,11 +9,11 @@ public class Orginal {
 		car1.model = "C200";
 		car1.amountOfFuel = 10;
 		//Using methods
-//		car1.print_date();
-//		car1.brake();
-//		car1.accelerate();
-//		car1.print_date();
-//		car1.refuel(20);
+		car1.print_date();
+		car1.brake();
+		car1.accelerate();
+		car1.print_date();
+		car1.refuel(20);
 		Car car2 = new Car("fiat","500",10);
 		car2.print_date();
 
